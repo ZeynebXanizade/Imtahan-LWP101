@@ -1,0 +1,32 @@
+{
+  "imtahan": [
+    {
+      "id": 1,
+      "name": "America",
+      "about": "Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.",
+      "img": "https://preview.colorlib.com/theme/theestate/images/featured_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Almanya",
+      "about": "Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.",
+      "img": "https://preview.colorlib.com/theme/theestate/images/featured_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Italya",
+      "about": "Donec ullamcorper nulla non metus auctor fringi lla. Curabitur blandit tempus porttitor.",
+      "img": "https://preview.colorlib.com/theme/theestate/images/featured_3.jpg"
+    },
+    {
+      "name": "Turkiye",
+      "about": "loremloremloremloremlorem",
+      "id": 5
+    },
+    {
+      "name": "Turkiye",
+      "about": "loremloremloremloremlorem",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+header {
+    h1 {
+
+        margin-left: 20%;
+        font-size: 100px;
+        color: white;
+    }
+
+    .section_one {
+        background-image: url("/assets/img/home_slider_bcg.jpg.webp");
+        height: 100vh;
+
+        .container-fluid {
+            padding-bottom: 40%;
+            font-size: 20px;
+            color: white;
+             position: fixed;
+             z-index: 1;
+           
+        }
+
+        .nav-item {
+            color: white;
+        }
+
+        .btn {
+            background-color: #fd784f;
+            border: none;
+        }
+
+
+    }
+
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    header {
+        .container-fluid {
+            padding-bottom: 100%;
+        }
+
+        h1 {
+            font-size: 40px;
+        }
+
+    }
+}
